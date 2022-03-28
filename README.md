@@ -1,8 +1,8 @@
 # 30 Days Of Solving Problem On Hacker Rank  
 > You can click on checked days to see problem solved 
 <!-- put the link on the round braces -->
->>>>>>> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Difficulty
-* ### [Day 1 ✅](https://colab.research.google.com/drive/1qpqXOVZRWNrWUyTNPadNP-oF218QaZXH#scrollTo=3IYZyHW2-bKm&line=1&uniqifier=1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Easy` ,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Basic`
+>>>>>> ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Difficulty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills
+* ### [Day 1 ✅](https://colab.research.google.com/drive/1qpqXOVZRWNrWUyTNPadNP-oF218QaZXH#scrollTo=3IYZyHW2-bKm&line=1&uniqifier=1) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Easy`  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Basic`
 * ### [Day 2]()
 * ### [Day 3]()
 * ### [Day 4]()
